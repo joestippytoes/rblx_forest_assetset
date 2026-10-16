@@ -1,0 +1,1578 @@
+{
+ "keyframes": [
+  "EarlySpring",
+  "MidSpring",
+  "LateSpring",
+  "EarlySummer",
+  "MidSummer",
+  "LateSummer",
+  "EarlyAutumn",
+  "MidAutumn",
+  "LateAutumn",
+  "EarlyWinter",
+  "MidWinter",
+  "LateWinter"
+ ],
+ "families": {
+  "Oak": [
+   {
+    "Bark": "4f3a2a",
+    "BarkLight": "66503b",
+    "Leaf1": "63844c",
+    "Leaf2": "6c9651",
+    "Leaf3": "78a857",
+    "Leaf4": "8abb62",
+    "Snow": "e9eef4",
+    "leaf": 0,
+    "snow": 0
+   },
+   {
+    "Bark": "4f3a2a",
+    "BarkLight": "66503b",
+    "Leaf1": "63844c",
+    "Leaf2": "6c9651",
+    "Leaf3": "78a857",
+    "Leaf4": "8abb62",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "4f3a2a",
+    "BarkLight": "66503b",
+    "Leaf1": "416644",
+    "Leaf2": "4d7f4b",
+    "Leaf3": "5d9753",
+    "Leaf4": "76b161",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "4f3a2a",
+    "BarkLight": "66503b",
+    "Leaf1": "27512a",
+    "Leaf2": "356d32",
+    "Leaf3": "47893c",
+    "Leaf4": "63a64c",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "4f3a2a",
+    "BarkLight": "66503b",
+    "Leaf1": "27512a",
+    "Leaf2": "356d32",
+    "Leaf3": "47893c",
+    "Leaf4": "63a64c",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "4f3a2a",
+    "BarkLight": "66503b",
+    "Leaf1": "2c522a",
+    "Leaf2": "386a31",
+    "Leaf3": "478239",
+    "Leaf4": "5f9b47",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "4f3a2a",
+    "BarkLight": "66503b",
+    "Leaf1": "4a4a22",
+    "Leaf2": "666328",
+    "Leaf3": "847e33",
+    "Leaf4": "a09e44",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "4f3a2a",
+    "BarkLight": "66503b",
+    "Leaf1": "6e4219",
+    "Leaf2": "98591e",
+    "Leaf3": "c27429",
+    "Leaf4": "dd953c",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "4f3a2a",
+    "BarkLight": "66503b",
+    "Leaf1": "6d4621",
+    "Leaf2": "845223",
+    "Leaf3": "9b6129",
+    "Leaf4": "aa7334",
+    "Snow": "e9eef4",
+    "leaf": 0.6,
+    "snow": 0
+   },
+   {
+    "Bark": "4f3a2a",
+    "BarkLight": "66503b",
+    "Leaf1": "6d4621",
+    "Leaf2": "845223",
+    "Leaf3": "9b6129",
+    "Leaf4": "aa7334",
+    "Snow": "e9eef4",
+    "leaf": 0,
+    "snow": 0
+   },
+   {
+    "Bark": "4f3a2a",
+    "BarkLight": "66503b",
+    "Leaf1": "6d4621",
+    "Leaf2": "845223",
+    "Leaf3": "9b6129",
+    "Leaf4": "aa7334",
+    "Snow": "e9eef4",
+    "leaf": 0,
+    "snow": 0
+   },
+   {
+    "Bark": "4f3a2a",
+    "BarkLight": "66503b",
+    "Leaf1": "6d4621",
+    "Leaf2": "845223",
+    "Leaf3": "9b6129",
+    "Leaf4": "aa7334",
+    "Snow": "e9eef4",
+    "leaf": 0,
+    "snow": 0
+   }
+  ],
+  "Birch": [
+   {
+    "Bark": "ebe8df",
+    "BarkLight": "f4f2ea",
+    "BarkDark": "2b2824",
+    "Leaf1": "84a94d",
+    "Leaf2": "95bb56",
+    "Leaf3": "a7cc60",
+    "Leaf4": "bcdc6e",
+    "Snow": "e9eef4",
+    "leaf": 0,
+    "snow": 0
+   },
+   {
+    "Bark": "ebe8df",
+    "BarkLight": "f4f2ea",
+    "BarkDark": "2b2824",
+    "Leaf1": "84a94d",
+    "Leaf2": "95bb56",
+    "Leaf3": "a7cc60",
+    "Leaf4": "bcdc6e",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "ebe8df",
+    "BarkLight": "f4f2ea",
+    "BarkDark": "2b2824",
+    "Leaf1": "6e9845",
+    "Leaf2": "85b152",
+    "Leaf3": "9dc860",
+    "Leaf4": "b9dd72",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "ebe8df",
+    "BarkLight": "f4f2ea",
+    "BarkDark": "2b2824",
+    "Leaf1": "5a8a2c",
+    "Leaf2": "74a63a",
+    "Leaf3": "90c04a",
+    "Leaf4": "b0d85f",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "ebe8df",
+    "BarkLight": "f4f2ea",
+    "BarkDark": "2b2824",
+    "Leaf1": "5a8a2c",
+    "Leaf2": "74a63a",
+    "Leaf3": "90c04a",
+    "Leaf4": "b0d85f",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "ebe8df",
+    "BarkLight": "f4f2ea",
+    "BarkDark": "2b2824",
+    "Leaf1": "58832c",
+    "Leaf2": "6e9b38",
+    "Leaf3": "86b145",
+    "Leaf4": "a1c557",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "ebe8df",
+    "BarkLight": "f4f2ea",
+    "BarkDark": "2b2824",
+    "Leaf1": "818624",
+    "Leaf2": "9fa331",
+    "Leaf3": "babe42",
+    "Leaf4": "d2d65a",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "ebe8df",
+    "BarkLight": "f4f2ea",
+    "BarkDark": "2b2824",
+    "Leaf1": "a8821c",
+    "Leaf2": "caa028",
+    "Leaf3": "e4bd3a",
+    "Leaf4": "f3d455",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "ebe8df",
+    "BarkLight": "f4f2ea",
+    "BarkDark": "2b2824",
+    "Leaf1": "8d6922",
+    "Leaf2": "9f7929",
+    "Leaf3": "ae8933",
+    "Leaf4": "b69642",
+    "Snow": "e9eef4",
+    "leaf": 0.6,
+    "snow": 0
+   },
+   {
+    "Bark": "ebe8df",
+    "BarkLight": "f4f2ea",
+    "BarkDark": "2b2824",
+    "Leaf1": "8d6922",
+    "Leaf2": "9f7929",
+    "Leaf3": "ae8933",
+    "Leaf4": "b69642",
+    "Snow": "e9eef4",
+    "leaf": 0,
+    "snow": 0
+   },
+   {
+    "Bark": "ebe8df",
+    "BarkLight": "f4f2ea",
+    "BarkDark": "2b2824",
+    "Leaf1": "8d6922",
+    "Leaf2": "9f7929",
+    "Leaf3": "ae8933",
+    "Leaf4": "b69642",
+    "Snow": "e9eef4",
+    "leaf": 0,
+    "snow": 0
+   },
+   {
+    "Bark": "ebe8df",
+    "BarkLight": "f4f2ea",
+    "BarkDark": "2b2824",
+    "Leaf1": "8d6922",
+    "Leaf2": "9f7929",
+    "Leaf3": "ae8933",
+    "Leaf4": "b69642",
+    "Snow": "e9eef4",
+    "leaf": 0,
+    "snow": 0
+   }
+  ],
+  "Maple": [
+   {
+    "Bark": "625a50",
+    "BarkLight": "7a7265",
+    "Leaf1": "658d4c",
+    "Leaf2": "70a353",
+    "Leaf3": "7fb55c",
+    "Leaf4": "94c76b",
+    "Snow": "e9eef4",
+    "leaf": 0,
+    "snow": 0
+   },
+   {
+    "Bark": "625a50",
+    "BarkLight": "7a7265",
+    "Leaf1": "658d4c",
+    "Leaf2": "70a353",
+    "Leaf3": "7fb55c",
+    "Leaf4": "94c76b",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "625a50",
+    "BarkLight": "7a7265",
+    "Leaf1": "447244",
+    "Leaf2": "538f4e",
+    "Leaf3": "67a85a",
+    "Leaf4": "83c16e",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "625a50",
+    "BarkLight": "7a7265",
+    "Leaf1": "2a5f2a",
+    "Leaf2": "3b8036",
+    "Leaf3": "529c44",
+    "Leaf4": "72b85a",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "625a50",
+    "BarkLight": "7a7265",
+    "Leaf1": "2a5f2a",
+    "Leaf2": "3b8036",
+    "Leaf3": "529c44",
+    "Leaf4": "72b85a",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "625a50",
+    "BarkLight": "7a7265",
+    "Leaf1": "2f5e2a",
+    "Leaf2": "3d7a34",
+    "Leaf3": "519240",
+    "Leaf4": "6caa53",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "625a50",
+    "BarkLight": "7a7265",
+    "Leaf1": "5c4221",
+    "Leaf2": "7c5e29",
+    "Leaf3": "987c35",
+    "Leaf4": "b2a148",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "625a50",
+    "BarkLight": "7a7265",
+    "Leaf1": "8e2418",
+    "Leaf2": "bd3b1c",
+    "Leaf3": "de5c26",
+    "Leaf4": "f28a36",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "625a50",
+    "BarkLight": "7a7265",
+    "Leaf1": "7e3520",
+    "Leaf2": "984222",
+    "Leaf3": "aa5428",
+    "Leaf4": "b56d31",
+    "Snow": "e9eef4",
+    "leaf": 0.6,
+    "snow": 0
+   },
+   {
+    "Bark": "625a50",
+    "BarkLight": "7a7265",
+    "Leaf1": "7e3520",
+    "Leaf2": "984222",
+    "Leaf3": "aa5428",
+    "Leaf4": "b56d31",
+    "Snow": "e9eef4",
+    "leaf": 0,
+    "snow": 0
+   },
+   {
+    "Bark": "625a50",
+    "BarkLight": "7a7265",
+    "Leaf1": "7e3520",
+    "Leaf2": "984222",
+    "Leaf3": "aa5428",
+    "Leaf4": "b56d31",
+    "Snow": "e9eef4",
+    "leaf": 0,
+    "snow": 0
+   },
+   {
+    "Bark": "625a50",
+    "BarkLight": "7a7265",
+    "Leaf1": "7e3520",
+    "Leaf2": "984222",
+    "Leaf3": "aa5428",
+    "Leaf4": "b56d31",
+    "Snow": "e9eef4",
+    "leaf": 0,
+    "snow": 0
+   }
+  ],
+  "Beech": [
+   {
+    "Bark": "8a867c",
+    "BarkLight": "9d998f",
+    "Leaf1": "65904d",
+    "Leaf2": "71a654",
+    "Leaf3": "81b75f",
+    "Leaf4": "98cb6c",
+    "Snow": "e9eef4",
+    "leaf": 0,
+    "snow": 0
+   },
+   {
+    "Bark": "8a867c",
+    "BarkLight": "9d998f",
+    "Leaf1": "65904d",
+    "Leaf2": "71a654",
+    "Leaf3": "81b75f",
+    "Leaf4": "98cb6c",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "8a867c",
+    "BarkLight": "9d998f",
+    "Leaf1": "447745",
+    "Leaf2": "54944f",
+    "Leaf3": "6aab5e",
+    "Leaf4": "89c670",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "8a867c",
+    "BarkLight": "9d998f",
+    "Leaf1": "2b642c",
+    "Leaf2": "3d8537",
+    "Leaf3": "56a048",
+    "Leaf4": "79be5c",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "8a867c",
+    "BarkLight": "9d998f",
+    "Leaf1": "2b642c",
+    "Leaf2": "3d8537",
+    "Leaf3": "56a048",
+    "Leaf4": "79be5c",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "8a867c",
+    "BarkLight": "9d998f",
+    "Leaf1": "30622c",
+    "Leaf2": "3f7f35",
+    "Leaf3": "549644",
+    "Leaf4": "72af54",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "8a867c",
+    "BarkLight": "9d998f",
+    "Leaf1": "505325",
+    "Leaf2": "6d702f",
+    "Leaf3": "8c8d3e",
+    "Leaf4": "abac52",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "8a867c",
+    "BarkLight": "9d998f",
+    "Leaf1": "76421e",
+    "Leaf2": "9d5c27",
+    "Leaf3": "c17a33",
+    "Leaf4": "dc9a47",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "8a867c",
+    "BarkLight": "9d998f",
+    "Leaf1": "714623",
+    "Leaf2": "865428",
+    "Leaf3": "9a642f",
+    "Leaf4": "a9763a",
+    "Snow": "e9eef4",
+    "leaf": 0.6,
+    "snow": 0
+   },
+   {
+    "Bark": "8a867c",
+    "BarkLight": "9d998f",
+    "Leaf1": "714623",
+    "Leaf2": "865428",
+    "Leaf3": "9a642f",
+    "Leaf4": "a9763a",
+    "Snow": "e9eef4",
+    "leaf": 0,
+    "snow": 0
+   },
+   {
+    "Bark": "8a867c",
+    "BarkLight": "9d998f",
+    "Leaf1": "714623",
+    "Leaf2": "865428",
+    "Leaf3": "9a642f",
+    "Leaf4": "a9763a",
+    "Snow": "e9eef4",
+    "leaf": 0,
+    "snow": 0
+   },
+   {
+    "Bark": "8a867c",
+    "BarkLight": "9d998f",
+    "Leaf1": "714623",
+    "Leaf2": "865428",
+    "Leaf3": "9a642f",
+    "Leaf4": "a9763a",
+    "Snow": "e9eef4",
+    "leaf": 0,
+    "snow": 0
+   }
+  ],
+  "Pine": [
+   {
+    "Bark": "5a4232",
+    "BarkLight": "7a5640",
+    "Leaf1": "375b42",
+    "Leaf2": "42724c",
+    "Leaf3": "4f8758",
+    "Leaf4": "619c64",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "5a4232",
+    "BarkLight": "7a5640",
+    "Leaf1": "375b42",
+    "Leaf2": "42724c",
+    "Leaf3": "4f8758",
+    "Leaf4": "619c64",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "5a4232",
+    "BarkLight": "7a5640",
+    "Leaf1": "1c4528",
+    "Leaf2": "285f34",
+    "Leaf3": "377741",
+    "Leaf4": "4b8f4f",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "5a4232",
+    "BarkLight": "7a5640",
+    "Leaf1": "1c4528",
+    "Leaf2": "285f34",
+    "Leaf3": "377741",
+    "Leaf4": "4b8f4f",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "5a4232",
+    "BarkLight": "7a5640",
+    "Leaf1": "1c4528",
+    "Leaf2": "285f34",
+    "Leaf3": "377741",
+    "Leaf4": "4b8f4f",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "5a4232",
+    "BarkLight": "7a5640",
+    "Leaf1": "1c4528",
+    "Leaf2": "285f34",
+    "Leaf3": "377741",
+    "Leaf4": "4b8f4f",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "5a4232",
+    "BarkLight": "7a5640",
+    "Leaf1": "1c4528",
+    "Leaf2": "285f34",
+    "Leaf3": "377741",
+    "Leaf4": "4b8f4f",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "5a4232",
+    "BarkLight": "7a5640",
+    "Leaf1": "234828",
+    "Leaf2": "2d5e32",
+    "Leaf3": "3a733e",
+    "Leaf4": "4b8749",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "5a4232",
+    "BarkLight": "7a5640",
+    "Leaf1": "234828",
+    "Leaf2": "2d5e32",
+    "Leaf3": "3a733e",
+    "Leaf4": "4b8749",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "5a4232",
+    "BarkLight": "7a5640",
+    "Leaf1": "234a37",
+    "Leaf2": "2c5e40",
+    "Leaf3": "38714a",
+    "Leaf4": "478355",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0.5
+   },
+   {
+    "Bark": "5a4232",
+    "BarkLight": "7a5640",
+    "Leaf1": "234a37",
+    "Leaf2": "2c5e40",
+    "Leaf3": "38714a",
+    "Leaf4": "478355",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 1
+   },
+   {
+    "Bark": "5a4232",
+    "BarkLight": "7a5640",
+    "Leaf1": "234a37",
+    "Leaf2": "2c5e40",
+    "Leaf3": "38714a",
+    "Leaf4": "478355",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0.5
+   }
+  ],
+  "Spruce": [
+   {
+    "Bark": "4a3b30",
+    "BarkLight": "5b493c",
+    "Leaf1": "345342",
+    "Leaf2": "3c664e",
+    "Leaf3": "45795a",
+    "Leaf4": "518c66",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "4a3b30",
+    "BarkLight": "5b493c",
+    "Leaf1": "345342",
+    "Leaf2": "3c664e",
+    "Leaf3": "45795a",
+    "Leaf4": "518c66",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "4a3b30",
+    "BarkLight": "5b493c",
+    "Leaf1": "183b28",
+    "Leaf2": "215136",
+    "Leaf3": "2c6744",
+    "Leaf4": "397c51",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "4a3b30",
+    "BarkLight": "5b493c",
+    "Leaf1": "183b28",
+    "Leaf2": "215136",
+    "Leaf3": "2c6744",
+    "Leaf4": "397c51",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "4a3b30",
+    "BarkLight": "5b493c",
+    "Leaf1": "183b28",
+    "Leaf2": "215136",
+    "Leaf3": "2c6744",
+    "Leaf4": "397c51",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "4a3b30",
+    "BarkLight": "5b493c",
+    "Leaf1": "183b28",
+    "Leaf2": "215136",
+    "Leaf3": "2c6744",
+    "Leaf4": "397c51",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "4a3b30",
+    "BarkLight": "5b493c",
+    "Leaf1": "183b28",
+    "Leaf2": "215136",
+    "Leaf3": "2c6744",
+    "Leaf4": "397c51",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "4a3b30",
+    "BarkLight": "5b493c",
+    "Leaf1": "204028",
+    "Leaf2": "275234",
+    "Leaf3": "306540",
+    "Leaf4": "3c774b",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "4a3b30",
+    "BarkLight": "5b493c",
+    "Leaf1": "204028",
+    "Leaf2": "275234",
+    "Leaf3": "306540",
+    "Leaf4": "3c774b",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "4a3b30",
+    "BarkLight": "5b493c",
+    "Leaf1": "1f4237",
+    "Leaf2": "275341",
+    "Leaf3": "2f644c",
+    "Leaf4": "397556",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0.5
+   },
+   {
+    "Bark": "4a3b30",
+    "BarkLight": "5b493c",
+    "Leaf1": "1f4237",
+    "Leaf2": "275341",
+    "Leaf3": "2f644c",
+    "Leaf4": "397556",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 1
+   },
+   {
+    "Bark": "4a3b30",
+    "BarkLight": "5b493c",
+    "Leaf1": "1f4237",
+    "Leaf2": "275341",
+    "Leaf3": "2f644c",
+    "Leaf4": "397556",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0.5
+   }
+  ],
+  "Fir": [
+   {
+    "Bark": "696a66",
+    "BarkLight": "7c7d78",
+    "Leaf1": "355c4b",
+    "Leaf2": "3e705c",
+    "Leaf3": "49856b",
+    "Leaf4": "569777",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "696a66",
+    "BarkLight": "7c7d78",
+    "Leaf1": "355c4b",
+    "Leaf2": "3e705c",
+    "Leaf3": "49856b",
+    "Leaf4": "569777",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "696a66",
+    "BarkLight": "7c7d78",
+    "Leaf1": "1a4632",
+    "Leaf2": "245d46",
+    "Leaf3": "307457",
+    "Leaf4": "3f8964",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "696a66",
+    "BarkLight": "7c7d78",
+    "Leaf1": "1a4632",
+    "Leaf2": "245d46",
+    "Leaf3": "307457",
+    "Leaf4": "3f8964",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "696a66",
+    "BarkLight": "7c7d78",
+    "Leaf1": "1a4632",
+    "Leaf2": "245d46",
+    "Leaf3": "307457",
+    "Leaf4": "3f8964",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "696a66",
+    "BarkLight": "7c7d78",
+    "Leaf1": "1a4632",
+    "Leaf2": "245d46",
+    "Leaf3": "307457",
+    "Leaf4": "3f8964",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "696a66",
+    "BarkLight": "7c7d78",
+    "Leaf1": "1a4632",
+    "Leaf2": "245d46",
+    "Leaf3": "307457",
+    "Leaf4": "3f8964",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "696a66",
+    "BarkLight": "7c7d78",
+    "Leaf1": "214931",
+    "Leaf2": "2a5d42",
+    "Leaf3": "347050",
+    "Leaf4": "41825b",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "696a66",
+    "BarkLight": "7c7d78",
+    "Leaf1": "214931",
+    "Leaf2": "2a5d42",
+    "Leaf3": "347050",
+    "Leaf4": "41825b",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "696a66",
+    "BarkLight": "7c7d78",
+    "Leaf1": "214a3e",
+    "Leaf2": "295c4e",
+    "Leaf3": "326e5b",
+    "Leaf4": "3e7f65",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0.5
+   },
+   {
+    "Bark": "696a66",
+    "BarkLight": "7c7d78",
+    "Leaf1": "214a3e",
+    "Leaf2": "295c4e",
+    "Leaf3": "326e5b",
+    "Leaf4": "3e7f65",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 1
+   },
+   {
+    "Bark": "696a66",
+    "BarkLight": "7c7d78",
+    "Leaf1": "214a3e",
+    "Leaf2": "295c4e",
+    "Leaf3": "326e5b",
+    "Leaf4": "3e7f65",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0.5
+   }
+  ],
+  "Bush": [
+   {
+    "Bark": "5a4a36",
+    "Leaf1": "668d4c",
+    "Leaf2": "71a153",
+    "Leaf3": "7fb45c",
+    "Leaf4": "92c469",
+    "Snow": "e9eef4",
+    "leaf": 0,
+    "snow": 0
+   },
+   {
+    "Bark": "5a4a36",
+    "Leaf1": "668d4c",
+    "Leaf2": "71a153",
+    "Leaf3": "7fb45c",
+    "Leaf4": "92c469",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "5a4a36",
+    "Leaf1": "457144",
+    "Leaf2": "548d4e",
+    "Leaf3": "67a65a",
+    "Leaf4": "80bd6b",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "5a4a36",
+    "Leaf1": "2c5e2a",
+    "Leaf2": "3d7d36",
+    "Leaf3": "529a44",
+    "Leaf4": "6fb457",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "5a4a36",
+    "Leaf1": "2c5e2a",
+    "Leaf2": "3d7d36",
+    "Leaf3": "529a44",
+    "Leaf4": "6fb457",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "5a4a36",
+    "Leaf1": "305d2a",
+    "Leaf2": "3f7834",
+    "Leaf3": "519040",
+    "Leaf4": "69a650",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "5a4a36",
+    "Leaf1": "545423",
+    "Leaf2": "72702a",
+    "Leaf3": "8e8d37",
+    "Leaf4": "a8aa4a",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "5a4a36",
+    "Leaf1": "7c4a1c",
+    "Leaf2": "a6631f",
+    "Leaf3": "c9802a",
+    "Leaf4": "e2a03d",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "5a4a36",
+    "Leaf1": "744a22",
+    "Leaf2": "8b5824",
+    "Leaf3": "9f682a",
+    "Leaf4": "ac7934",
+    "Snow": "e9eef4",
+    "leaf": 0.6,
+    "snow": 0
+   },
+   {
+    "Bark": "5a4a36",
+    "Leaf1": "744a22",
+    "Leaf2": "8b5824",
+    "Leaf3": "9f682a",
+    "Leaf4": "ac7934",
+    "Snow": "e9eef4",
+    "leaf": 0,
+    "snow": 0
+   },
+   {
+    "Bark": "5a4a36",
+    "Leaf1": "744a22",
+    "Leaf2": "8b5824",
+    "Leaf3": "9f682a",
+    "Leaf4": "ac7934",
+    "Snow": "e9eef4",
+    "leaf": 0,
+    "snow": 0
+   },
+   {
+    "Bark": "5a4a36",
+    "Leaf1": "744a22",
+    "Leaf2": "8b5824",
+    "Leaf3": "9f682a",
+    "Leaf4": "ac7934",
+    "Snow": "e9eef4",
+    "leaf": 0,
+    "snow": 0
+   }
+  ],
+  "BushDense": [
+   {
+    "Bark": "5a4a36",
+    "Leaf1": "658b4c",
+    "Leaf2": "709f53",
+    "Leaf3": "7db25c",
+    "Leaf4": "8fc268",
+    "Snow": "e9eef4",
+    "leaf": 0,
+    "snow": 0
+   },
+   {
+    "Bark": "5a4a36",
+    "Leaf1": "658b4c",
+    "Leaf2": "709f53",
+    "Leaf3": "7db25c",
+    "Leaf4": "8fc268",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "5a4a36",
+    "Leaf1": "447044",
+    "Leaf2": "538a4d",
+    "Leaf3": "64a35a",
+    "Leaf4": "7dba69",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "5a4a36",
+    "Leaf1": "2a5c2a",
+    "Leaf2": "3b7a35",
+    "Leaf3": "4f9743",
+    "Leaf4": "6bb155",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "5a4a36",
+    "Leaf1": "2a5c2a",
+    "Leaf2": "3b7a35",
+    "Leaf3": "4f9743",
+    "Leaf4": "6bb155",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "5a4a36",
+    "Leaf1": "2f5c2a",
+    "Leaf2": "3d7533",
+    "Leaf3": "4e8e3f",
+    "Leaf4": "66a44f",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "5a4a36",
+    "Leaf1": "535323",
+    "Leaf2": "706e2a",
+    "Leaf3": "8c8c37",
+    "Leaf4": "a6a849",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "5a4a36",
+    "Leaf1": "7c4a1c",
+    "Leaf2": "a6631f",
+    "Leaf3": "c9802a",
+    "Leaf4": "e2a03d",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "5a4a36",
+    "Leaf1": "744a22",
+    "Leaf2": "8b5824",
+    "Leaf3": "9f682a",
+    "Leaf4": "ac7934",
+    "Snow": "e9eef4",
+    "leaf": 0.6,
+    "snow": 0
+   },
+   {
+    "Bark": "5a4a36",
+    "Leaf1": "744a22",
+    "Leaf2": "8b5824",
+    "Leaf3": "9f682a",
+    "Leaf4": "ac7934",
+    "Snow": "e9eef4",
+    "leaf": 0,
+    "snow": 0
+   },
+   {
+    "Bark": "5a4a36",
+    "Leaf1": "744a22",
+    "Leaf2": "8b5824",
+    "Leaf3": "9f682a",
+    "Leaf4": "ac7934",
+    "Snow": "e9eef4",
+    "leaf": 0,
+    "snow": 0
+   },
+   {
+    "Bark": "5a4a36",
+    "Leaf1": "744a22",
+    "Leaf2": "8b5824",
+    "Leaf3": "9f682a",
+    "Leaf4": "ac7934",
+    "Snow": "e9eef4",
+    "leaf": 0,
+    "snow": 0
+   }
+  ],
+  "BushFull": [
+   {
+    "Bark": "5a4a36",
+    "Leaf1": "638a4b",
+    "Leaf2": "6f9d52",
+    "Leaf3": "7cb05b",
+    "Leaf4": "8dc166",
+    "Snow": "e9eef4",
+    "leaf": 0,
+    "snow": 0
+   },
+   {
+    "Bark": "5a4a36",
+    "Leaf1": "638a4b",
+    "Leaf2": "6f9d52",
+    "Leaf3": "7cb05b",
+    "Leaf4": "8dc166",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "5a4a36",
+    "Leaf1": "426e43",
+    "Leaf2": "51874c",
+    "Leaf3": "62a159",
+    "Leaf4": "7ab868",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "5a4a36",
+    "Leaf1": "285a29",
+    "Leaf2": "397734",
+    "Leaf3": "4d9442",
+    "Leaf4": "68ae53",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "5a4a36",
+    "Leaf1": "285a29",
+    "Leaf2": "397734",
+    "Leaf3": "4d9442",
+    "Leaf4": "68ae53",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "5a4a36",
+    "Leaf1": "2d5a29",
+    "Leaf2": "3c7332",
+    "Leaf3": "4d8b3e",
+    "Leaf4": "64a14d",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "5a4a36",
+    "Leaf1": "525223",
+    "Leaf2": "706d2a",
+    "Leaf3": "8b8a36",
+    "Leaf4": "a5a748",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "5a4a36",
+    "Leaf1": "7c4a1c",
+    "Leaf2": "a6631f",
+    "Leaf3": "c9802a",
+    "Leaf4": "e2a03d",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "5a4a36",
+    "Leaf1": "744a22",
+    "Leaf2": "8b5824",
+    "Leaf3": "9f682a",
+    "Leaf4": "ac7934",
+    "Snow": "e9eef4",
+    "leaf": 0.6,
+    "snow": 0
+   },
+   {
+    "Bark": "5a4a36",
+    "Leaf1": "744a22",
+    "Leaf2": "8b5824",
+    "Leaf3": "9f682a",
+    "Leaf4": "ac7934",
+    "Snow": "e9eef4",
+    "leaf": 0,
+    "snow": 0
+   },
+   {
+    "Bark": "5a4a36",
+    "Leaf1": "744a22",
+    "Leaf2": "8b5824",
+    "Leaf3": "9f682a",
+    "Leaf4": "ac7934",
+    "Snow": "e9eef4",
+    "leaf": 0,
+    "snow": 0
+   },
+   {
+    "Bark": "5a4a36",
+    "Leaf1": "744a22",
+    "Leaf2": "8b5824",
+    "Leaf3": "9f682a",
+    "Leaf4": "ac7934",
+    "Snow": "e9eef4",
+    "leaf": 0,
+    "snow": 0
+   }
+  ],
+  "Bramble": [
+   {
+    "Bark": "6a3b36",
+    "Leaf1": "65834a",
+    "Leaf2": "6f9450",
+    "Leaf3": "7aa556",
+    "Leaf4": "87b45f",
+    "Snow": "e9eef4",
+    "leaf": 0,
+    "snow": 0
+   },
+   {
+    "Bark": "6a3b36",
+    "Leaf1": "65834a",
+    "Leaf2": "6f9450",
+    "Leaf3": "7aa556",
+    "Leaf4": "87b45f",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "6a3b36",
+    "Leaf1": "446441",
+    "Leaf2": "517c4a",
+    "Leaf3": "609352",
+    "Leaf4": "72a65e",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "6a3b36",
+    "Leaf1": "2a4f27",
+    "Leaf2": "396a31",
+    "Leaf3": "4a843a",
+    "Leaf4": "5f9a48",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "6a3b36",
+    "Leaf1": "2a4f27",
+    "Leaf2": "396a31",
+    "Leaf3": "4a843a",
+    "Leaf4": "5f9a48",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "6a3b36",
+    "Leaf1": "2f5127",
+    "Leaf2": "3c6830",
+    "Leaf3": "4a7e38",
+    "Leaf4": "5c9044",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "6a3b36",
+    "Leaf1": "4a4422",
+    "Leaf2": "645c2a",
+    "Leaf3": "7d7633",
+    "Leaf4": "938e41",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "6a3b36",
+    "Leaf1": "6b3a1c",
+    "Leaf2": "8f4e22",
+    "Leaf3": "b0672c",
+    "Leaf4": "c8833a",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "6a3b36",
+    "Leaf1": "6b4122",
+    "Leaf2": "7f4c26",
+    "Leaf3": "915a2b",
+    "Leaf4": "9e6933",
+    "Snow": "e9eef4",
+    "leaf": 0.6,
+    "snow": 0
+   },
+   {
+    "Bark": "6a3b36",
+    "Leaf1": "6b4122",
+    "Leaf2": "7f4c26",
+    "Leaf3": "915a2b",
+    "Leaf4": "9e6933",
+    "Snow": "e9eef4",
+    "leaf": 0,
+    "snow": 0
+   },
+   {
+    "Bark": "6a3b36",
+    "Leaf1": "6b4122",
+    "Leaf2": "7f4c26",
+    "Leaf3": "915a2b",
+    "Leaf4": "9e6933",
+    "Snow": "e9eef4",
+    "leaf": 0,
+    "snow": 0
+   },
+   {
+    "Bark": "6a3b36",
+    "Leaf1": "6b4122",
+    "Leaf2": "7f4c26",
+    "Leaf3": "915a2b",
+    "Leaf4": "9e6933",
+    "Snow": "e9eef4",
+    "leaf": 0,
+    "snow": 0
+   }
+  ],
+  "Fern": [
+   {
+    "Bark": "4e5a30",
+    "Leaf1": "68944c",
+    "Leaf2": "72a953",
+    "Leaf3": "81bb5e",
+    "Leaf4": "94ca6b",
+    "Snow": "e9eef4",
+    "leaf": 0,
+    "snow": 0
+   },
+   {
+    "Bark": "4e5a30",
+    "Leaf1": "68944c",
+    "Leaf2": "72a953",
+    "Leaf3": "81bb5e",
+    "Leaf4": "94ca6b",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "4e5a30",
+    "Leaf1": "487c44",
+    "Leaf2": "56984e",
+    "Leaf3": "69b05c",
+    "Leaf4": "84c46e",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "4e5a30",
+    "Leaf1": "2f6a2a",
+    "Leaf2": "3f8a36",
+    "Leaf3": "55a546",
+    "Leaf4": "73bc5a",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "4e5a30",
+    "Leaf1": "2f6a2a",
+    "Leaf2": "3f8a36",
+    "Leaf3": "55a546",
+    "Leaf4": "73bc5a",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "4e5a30",
+    "Leaf1": "33682a",
+    "Leaf2": "418334",
+    "Leaf3": "539a42",
+    "Leaf4": "6dad53",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "4e5a30",
+    "Leaf1": "5c6a26",
+    "Leaf2": "748730",
+    "Leaf3": "8ca23e",
+    "Leaf4": "a6b952",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "4e5a30",
+    "Leaf1": "8a6a22",
+    "Leaf2": "a8842a",
+    "Leaf3": "c49e36",
+    "Leaf4": "d8b54a",
+    "Snow": "e9eef4",
+    "leaf": 1,
+    "snow": 0
+   },
+   {
+    "Bark": "4e5a30",
+    "Leaf1": "7c5c26",
+    "Leaf2": "8d6a2a",
+    "Leaf3": "9c7831",
+    "Leaf4": "a7853c",
+    "Snow": "e9eef4",
+    "leaf": 0.7,
+    "snow": 0
+   },
+   {
+    "Bark": "4e5a30",
+    "Leaf1": "7c5c26",
+    "Leaf2": "8d6a2a",
+    "Leaf3": "9c7831",
+    "Leaf4": "a7853c",
+    "Snow": "e9eef4",
+    "leaf": 0,
+    "snow": 0
+   },
+   {
+    "Bark": "4e5a30",
+    "Leaf1": "7c5c26",
+    "Leaf2": "8d6a2a",
+    "Leaf3": "9c7831",
+    "Leaf4": "a7853c",
+    "Snow": "e9eef4",
+    "leaf": 0,
+    "snow": 0
+   },
+   {
+    "Bark": "4e5a30",
+    "Leaf1": "7c5c26",
+    "Leaf2": "8d6a2a",
+    "Leaf3": "9c7831",
+    "Leaf4": "a7853c",
+    "Snow": "e9eef4",
+    "leaf": 0,
+    "snow": 0
+   }
+  ]
+ }
+}

@@ -1,0 +1,11 @@
+# Forest Kit for Roblox
+> Low-poly forest asset pack for Roblox Studio: 265 GLB models (7 tree species x 5 growth stages x 5 variants, 5 shrub families x 3 sizes x 5 variants, 15 deadwood), flat colours, no textures, with Studio scripts for wind, seasons and one-run forest chunks. This repository holds the documentation, the scripts and the data; the models are on the Roblox Creator Store.
+
+- [AI guide](docs/AI_GUIDE.md): naming, parts and roles, attributes and tags, palettes, chunk recipes, Lua snippets.
+- [Setup](docs/SETUP.md): every Studio step and every switch (wind off, mobile, seasons, chunks).
+- [Palettes](docs/PALETTES.md): every colour per family and role, four fixed palettes and twelve keyframes a year.
+- [Performance](docs/PERFORMANCE.md): triangles and parts per model, totals, mobile advice.
+- [Scripts](scripts/): Setup.lua, Verify.lua, Wind.client.lua, Seasons.server.lua, Palettes.lua, BuildChunk.lua, Chunks.lua.
+- [Manifest](data/manifest.json): every model with parts, materials, triangles, height, width.
+- [Seasons data](data/seasons.json): twelve colour keyframes a year per family.
+- [Chunks](data/chunks/index.json): 30 forest layouts, 120 by 120 studs.
