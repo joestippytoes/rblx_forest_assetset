@@ -94,3 +94,24 @@ themselves, so repeat with `ORIGIN` moved 120 studs over to grow the forest. The
 
 Delete the old Models and import the new files; then run `Setup.lua` and `Verify.lua` again.
 Model and part names have not changed since 1.0, so chunks and scripts keep working.
+
+## Publishing the pack on the Creator Store
+
+The store sells one Model asset that holds everything. Importing GLB files uploads one mesh asset
+per file into your inventory; those are the storage behind the MeshParts, they stay private and
+nothing needs deleting. To turn the imported models into the pack:
+
+1. Select the imported Models (or nothing, to take every kit model in Workspace), paste
+   `Organize.lua` into the Command Bar, press Enter. It builds `Workspace.ForestKit`, a Model with the
+   folders `Trees/<Species>/<Species>_Size<N>_<Stage>`, `Shrubs/...`, `Deadwood/...`, a disabled
+   `README` script with the link to this repository, and a `Scripts` folder of empty, correctly typed
+   script instances named `Setup`, `Verify`, `Wind`, `Seasons` (with `Palettes` inside), `BuildChunk`,
+   `Chunks`. Open each one and paste in the matching Lua file. Keep Setup, Verify, Wind, Seasons
+   and BuildChunk disabled; buyers enable what they use.
+2. Optional, for the automatic thumbnail: build one chunk (`BuildChunk.lua`) and move its folder
+   into `ForestKit` as `Showcase`. The store renders the thumbnail from the model's contents, so a
+   finished forest in front of the library reads far better than 265 trees in rows.
+3. Right-click `ForestKit` > Save to Roblox. In the dialog: name, description (put the repository
+   link in the first line), creator (you or your group), turn on "Distribute on Creator Store", set
+   the price. Submit; moderation takes a while for a model with scripts.
+4. For separate tiers, make one Model per tier with only its folders and publish each the same way.

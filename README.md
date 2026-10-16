@@ -16,7 +16,7 @@ on the Roblox Creator Store. The scripts here are the same files that ship in th
 | Trees | Oak, Birch, Maple, Beech, Pine, Spruce, Fir. Five growth stages each (Sprout, Sapling, Grown, Elder, Ancient), five variants per stage. 175 models. |
 | Shrubs | Bush, BushDense, BushFull, Bramble, Fern. Three sizes (Small, Medium, Large), five variants each. 75 models. |
 | Deadwood | Branch, Log, Stump. Five each. 15 models. |
-| Scripts | `Setup.lua`, `Verify.lua`, `Wind.client.lua`, `Seasons.server.lua` with `Palettes.lua`, `BuildChunk.lua` with `Chunks.lua`. In [scripts/](scripts/). |
+| Scripts | `Setup.lua`, `Verify.lua`, `Organize.lua`, `Wind.client.lua`, `Seasons.server.lua` with `Palettes.lua`, `BuildChunk.lua` with `Chunks.lua`. In [scripts/](scripts/). |
 | Chunks | 30 finished forest layouts, 120 by 120 studs, six archetypes (Oak, Birch, Pine, Taiga, Hardwood, Mixed). In [data/chunks/](data/chunks/). |
 | Data | [data/manifest.json](data/manifest.json): every model with its parts, materials, triangles and size. [data/seasons.json](data/seasons.json): twelve colour keyframes a year per family. |
 
@@ -59,7 +59,7 @@ that every script and every chunk recipe uses, so keep the names.
    [scripts/Chunks.lua](scripts/Chunks.lua) as a ModuleScript inside, edit the settings at the top of
    [scripts/BuildChunk.lua](scripts/BuildChunk.lua), paste it into the Command Bar.
 
-Every step with every switch: [docs/SETUP.md](docs/SETUP.md).
+Every step with every switch, and how the pack is published as one Model: [docs/SETUP.md](docs/SETUP.md).
 
 ## Turning the wind animation off
 

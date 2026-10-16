@@ -5,7 +5,7 @@
 - [Setup](docs/SETUP.md): every Studio step and every switch (wind off, mobile, seasons, chunks).
 - [Palettes](docs/PALETTES.md): every colour per family and role, four fixed palettes and twelve keyframes a year.
 - [Performance](docs/PERFORMANCE.md): triangles and parts per model, totals, mobile advice.
-- [Scripts](scripts/): Setup.lua, Verify.lua, Wind.client.lua, Seasons.server.lua, Palettes.lua, BuildChunk.lua, Chunks.lua.
+- [Scripts](scripts/): Setup.lua, Verify.lua, Organize.lua, Wind.client.lua, Seasons.server.lua, Palettes.lua, BuildChunk.lua, Chunks.lua.
 - [Manifest](data/manifest.json): every model with parts, materials, triangles, height, width.
 - [Seasons data](data/seasons.json): twelve colour keyframes a year per family.
 - [Chunks](data/chunks/index.json): 30 forest layouts, 120 by 120 studs.
